@@ -1,0 +1,11 @@
+
+
+//Given a sequence of numbers, find the largest pair sum in the sequence.
+ 
+ let arr =[1,35,2,40,32]
+ arr.sort()
+ cosnt sum = arr[arr.lenght-1]+arr[arr.lenght-2]
+
+ console.log(sum) 
+ 
+ 
